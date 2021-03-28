@@ -182,7 +182,7 @@ img {
   margin-bottom: 2.5rem;
 }
 
-.landing-button {
+.landing-btn {
   display: inline-block;
   background-color: var(--first-color-dark);
   color: var(--white-color);
@@ -190,7 +190,7 @@ img {
   border-radius: .5rem;
 }
 
-.landing-button:hover {
+.landing-btn:hover {
   background-color: var(--first-color-darken);
 }
 
